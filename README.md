@@ -48,8 +48,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giheon-Jeon&show_icons=true&theme=tokyonight" alt="Giheon's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giheon-Jeon&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats-tau-one.vercel.app/api?username=Giheon-Jeon&show_icons=true&theme=tokyonight" alt="Giheon's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-tau-one.vercel.app/api/top-langs?username=Giheon-Jeon&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
 </p>
 
 <br/>
