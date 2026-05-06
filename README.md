@@ -1,20 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Giheon%20Jeon&fontSize=55&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome%20to%20gyeon%27s%20github&fontSize=42&fontAlignY=35" width="100%"/>
 
   <br/><br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=339933&center=true&vCenter=true&width=450&lines=Backend+Developer;Tech+Innovator;Backend+Developer+%26+Tech+Innovator)](https://git.io/typing-svg)
-
-  <br/><br/>
-
-  <p align="center">
-    <a href="https://github.com/Giheon-Jeon"><img src="https://img.shields.io/github/followers/Giheon-Jeon?label=Followers&style=social" alt="Followers"></a>
-    <a href="https://github.com/Giheon-Jeon"><img src="https://img.shields.io/github/stars/Giheon-Jeon?label=Total%20Stars&style=social" alt="Stars"></a>
-  </p>
-
-  <p align="center">
-    <strong>"Building high-performance, secure, and scalable backend architectures."</strong>
-  </p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=339933&center=true&vCenter=true&width=500&lines=Backend+Developer;Tech+Innovator;Backend+Developer+%2526+Tech+Innovator)](https://git.io/typing-svg)
 </div>
 
 <br/>
