@@ -48,13 +48,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giheon-Jeon&theme=tokyonight" alt="Giheon's GitHub Profile Details" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giheon-Jeon&theme=tokyonight" alt="Giheon's GitHub Stats" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giheon-Jeon&theme=tokyonight" alt="Repos Per Language" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giheon-Jeon&theme=tokyonight" alt="Most Commit Language" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giheon-Jeon&show_icons=true&theme=tokyonight" alt="Giheon's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giheon-Jeon&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
 </p>
 
 <br/>
