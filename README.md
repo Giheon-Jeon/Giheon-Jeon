@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=welcome%20to%20gyeon%27s%20github&fontSize=42&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=sliced&color=auto&height=250&section=header&text=welcome%20to%20gyeon%27s%20github&fontSize=42&fontAlignY=35" width="100%"/>
 
   <br/><br/>
 
@@ -48,8 +48,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-tau-one.vercel.app/api?username=Giheon-Jeon&show_icons=true&theme=tokyonight" alt="Giheon's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats-tau-one.vercel.app/api/top-langs?username=Giheon-Jeon&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats-tau-one.vercel.app/api?username=Giheon-Jeon&show_icons=true&theme=tokyonight" alt="Giheon's GitHub Stats" width="80%">
+  <br/><br/>
+  <img src="https://github-readme-stats-tau-one.vercel.app/api/top-langs?username=Giheon-Jeon&layout=compact&theme=tokyonight" alt="Top Languages" width="80%">
 </p>
 
 <br/>
