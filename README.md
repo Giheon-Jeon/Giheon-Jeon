@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="assets/giheon_jeon_banner.png" alt="Giheon Jeon Profile Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Giheon%20Jeon&fontSize=55&fontAlignY=35" width="100%"/>
 
   <br/><br/>
 
-  # 🚀 Hi there! I'm Giheon Jeon (전기헌)
-  ### 💫 Passionate Backend Developer & Tech Innovator
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=339933&center=true&vCenter=true&width=450&lines=Backend+Developer;Tech+Innovator;Backend+Developer+%26+Tech+Innovator)](https://git.io/typing-svg)
+
+  <br/><br/>
 
   <p align="center">
     <a href="https://github.com/Giheon-Jeon"><img src="https://img.shields.io/github/followers/Giheon-Jeon?label=Followers&style=social" alt="Followers"></a>
