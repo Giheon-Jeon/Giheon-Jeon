@@ -1,12 +1,9 @@
 <div align="center">
-  <!-- Header: Lavender-pink gradient capsule with waving type -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=A18CD1,FBC2EB,C6C7E2&height=220&section=header&text=gyeon&fontSize=65&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
   <br/>
 
-  <!-- Typing SVG for subtitle -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=A18CD1&center=true&vCenter=true&width=500&lines=Backend+Developer;Tech+Innovator;Problem+Solver)](https://git.io/typing-svg)
-  
-  <!-- Hits Counter -->
+
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGiheon-Jeon%2FGiheon-Jeon&count_bg=%23A18CD1&title_bg=%2330363d&icon=&icon_color=%23e7e7e7&title=Views&edge_flat=false" alt="Hits" />
 </div>
 
@@ -14,27 +11,18 @@
 
 ## 💫 About Me
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👋 안녕하세요! 전기헌입니다.</h3>
-      <p>새로운 기술을 학습하고 고도화된 백엔드 시스템을 설계하는 것에 깊은 관심을 가지고 있습니다.</p>
-      <ul>
-        <li>🚀 <b>주요 관심사:</b> 분산 시스템 아키텍처, 성능 최적화, 인프라 자동화</li>
-        <li>🌱 <b>공부 중인 분야:</b> 쿠버네티스 기반 컨테이너 오케스트레이션 및 마이크로서비스 설계</li>
-        <li>💬 <b>토론 환영:</b> Java, Spring Boot, 데이터베이스 설계 및 클라우드 아키텍처</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h3>📊 Quick Info</h3>
-      <ul>
-        <li>📍 <b>Location:</b> Seoul, South Korea</li>
-        <li>💼 <b>Goal:</b> Backend & DevOps Developer</li>
-        <li>⚡ <b>Motto:</b> "작동하는 코드를 넘어, 유지보수하기 좋고 변경에 유연한 구조를 지향합니다."</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+👋 **안녕하세요! 전기헌입니다.**
+
+새로운 기술을 학습하고 고도화된 백엔드 시스템을 설계하는 것에 깊은 관심을 가지고 있습니다.
+
+| | |
+|:---|:---|
+| 📍 **Location** | Seoul, South Korea |
+| 💼 **Goal** | Backend & DevOps Developer |
+| 🚀 **관심 분야** | 분산 시스템 아키텍처, 성능 최적화, 인프라 자동화 |
+| 🌱 **공부 중** | 쿠버네티스 기반 컨테이너 오케스트레이션 및 마이크로서비스 설계 |
+| 💬 **토론 환영** | Java, Spring Boot, 데이터베이스 설계, 클라우드 아키텍처 |
+| ⚡ **Motto** | 작동하는 코드를 넘어, 유지보수하기 좋고 변경에 유연한 구조를 지향합니다. |
 
 <br/>
 
@@ -42,10 +30,10 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend & Languages** | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py" alt="Backend & Languages" /> |
-| **Database & Caching** | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" alt="Database & Caching" /> |
-| **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" alt="DevOps & Infra" /> |
-| **Tools & Collaboration** | <img src="https://skillicons.dev/icons?i=git,github,idea,slack" alt="Tools & Collab" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,c,spring,py" alt="Languages" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=oracle,django" alt="Database" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="DevOps" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" /> |
 
 <br/>
 
