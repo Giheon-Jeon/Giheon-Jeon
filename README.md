@@ -27,12 +27,28 @@
 
 ## 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,c,spring,py" alt="Languages" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=oracle,django" alt="Database" /> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="DevOps" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" /> |
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Database**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
