@@ -4,7 +4,6 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=A18CD1&center=true&vCenter=true&width=500&lines=Backend+Developer;Tech+Innovator;Problem+Solver)](https://git.io/typing-svg)
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGiheon-Jeon%2FGiheon-Jeon&count_bg=%23A18CD1&title_bg=%2330363d&icon=&icon_color=%23e7e7e7&title=Views&edge_flat=false" alt="Hits" />
 </div>
 
 <br/>
