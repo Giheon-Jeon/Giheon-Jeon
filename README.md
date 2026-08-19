@@ -9,13 +9,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-tau-one.vercel.app/?user=Giheon-Jeon&hide_border=true&background=ffffff&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak Stats" width="70%"/>
+  <img src="https://skillicons.dev/icons?i=github,git,aws,docker,kubernetes,java,python,c&theme=light" alt="Tech Stack"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,c,oracle,django,docker,kubernetes,aws,git,github&theme=light" alt="Tech Stack"/>
+  <img src="https://github-readme-streak-stats-tau-one.vercel.app/?user=Giheon-Jeon&hide_border=true&background=ffffff&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak Stats" width="70%"/>
 </p>
 
 <br/>
