@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Giheon-Jeon&hide_border=true&background=ffffff&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak Stats" width="70%"/>
+  <img src="https://github-readme-streak-stats-tau-one.vercel.app/?user=Giheon-Jeon&hide_border=true&background=ffffff&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak Stats" width="70%"/>
 </p>
 
 <br/>
@@ -21,6 +21,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-tau-one.vercel.app/api?username=Giheon-Jeon&show_icons=true&hide_border=true&count_private=true&title_color=6DB33F&icon_color=6DB33F&text_color=333333&bg_color=ffffff" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats-tau-one.vercel.app/api/top-langs/?username=Giheon-Jeon&layout=compact&hide_border=true&title_color=6DB33F&text_color=333333&bg_color=ffffff&langs_count=6" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giheon-Jeon&hide_border=true&bg_color=ffffff&color=333333&line=6DB33F&point=6DB33F&area=true&area_color=6DB33F" alt="Contribution Graph" width="90%"/>
 </p>
