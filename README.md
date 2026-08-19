@@ -1,93 +1,24 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=A18CD1,FBC2EB,C6C7E2&height=220&section=header&text=gyeon&fontSize=65&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
-  <br/>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=A18CD1&center=true&vCenter=true&width=500&lines=Backend+Developer;Tech+Innovator;Problem+Solver)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-## 💫 About Me
-
-👋 **안녕하세요! 전기헌입니다.**
-
-새로운 기술을 학습하고 고도화된 백엔드 시스템을 설계하는 것에 깊은 관심을 가지고 있습니다.
-
-| | |
-|:---|:---|
-| 📍 **Location** | Seoul, South Korea |
-| 💼 **Goal** | Backend & DevOps Developer |
-| 🚀 **관심 분야** | 분산 시스템 아키텍처, 성능 최적화, 인프라 자동화 |
-| 🌱 **공부 중** | 쿠버네티스 기반 컨테이너 오케스트레이션 및 마이크로서비스 설계 |
-| 💬 **토론 환영** | Java, Spring Boot, 데이터베이스 설계, 클라우드 아키텍처 |
-| ⚡ **Motto** | 작동하는 코드를 넘어, 유지보수하기 좋고 변경에 유연한 구조를 지향합니다. |
-
-<br/>
-
-## 🛠️ Tech Stack & Skills
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Database**
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<br/>
-
-## 🔮 3D Contribution Graph
+<h1 align="center">전기헌</h1>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <a href="mailto:jgh030706@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
+  <a href="https://instagram.com/gyeon.rus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <br/>
 
-## 📊 GitHub Analytics & Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giheon-Jeon&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Giheon's Trophies" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,oracle,django,docker,kubernetes,aws,git,github&theme=light" alt="Tech Stack"/>
 </p>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-tau-one.vercel.app/api?username=Giheon-Jeon&show_icons=true&theme=tokyonight&count_private=true" alt="Giheon's GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-tau-one.vercel.app/api/top-langs?username=Giheon-Jeon&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giheon-Jeon&theme=tokyonight" alt="Giheon's Streak" width="100%" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 
-## 📫 Connect with Me
+<p align="center">
+  <img src="https://github-readme-stats-tau-one.vercel.app/api?username=Giheon-Jeon&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-tau-one.vercel.app/api/top-langs/?username=Giheon-Jeon&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170"/>
+</p>
 
-<p align="left">
-  <a href="mailto:jgh030706@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/Giheon-Jeon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giheon-Jeon&theme=default&hide_border=true" alt="GitHub Streak" width="70%"/>
 </p>
