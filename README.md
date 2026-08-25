@@ -43,7 +43,7 @@
 </td>
 <td width="420" valign="top">
 
-**[MSG-CTF](https://github.com/MJSEC-MJU/MSG_CTF_WEB)**
+**[MSG-CTF](https://github.com/MSG-CTF)**
 
 MJSEC 주최 CTF 대회 웹 플랫폼
 (진행 중)
