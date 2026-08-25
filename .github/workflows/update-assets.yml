@@ -17,7 +17,7 @@ jobs:
       - name: Fetch streak stats SVG
         run: |
           curl -sL --retry 3 --fail \
-            "https://github-readme-streak-stats-tau-one.vercel.app/?user=Giheon-Jeon&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000" \
+            "https://github-readme-streak-stats-tau-one.vercel.app/?user=Giheon-Jeon&hide_border=true&background=ffffff&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" \
             -o assets/streak-stats.new.svg
           if head -c 100 assets/streak-stats.new.svg | grep -q "<svg"; then
             mv assets/streak-stats.new.svg assets/streak-stats.svg
@@ -26,17 +26,15 @@ jobs:
             rm -f assets/streak-stats.new.svg
           fi
 
-      - name: Fetch contribution graph SVG
-        run: |
-          curl -sL --retry 3 --fail \
-            "https://ghchart.rshah.org/000000/Giheon-Jeon" \
-            -o assets/contribution-graph.new.svg
-          if head -c 100 assets/contribution-graph.new.svg | grep -q "<svg"; then
-            mv assets/contribution-graph.new.svg assets/contribution-graph.svg
-          else
-            echo "Fetched file is not a valid SVG, keeping previous version."
-            rm -f assets/contribution-graph.new.svg
-          fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install graph dependencies
+        run: pip install matplotlib
+
+      - name: Generate commit activity line graph
+        run: python scripts/generate_activity_graph.py
 
       - name: Commit changes
         run: |

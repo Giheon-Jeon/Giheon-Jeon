@@ -12,37 +12,46 @@
 
 <br/>
 
-<table align="center" width="100%">
-<tr><td align="center">
+<h3 align="center">🎓 Education</h3>
 
-### Education
+<p align="center">
+  <img src="https://img.shields.io/badge/2022.03%20--%20Present-Myongji%20University%2C%20Computer%20Engineering-6DB33F?style=for-the-badge&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/2026.03%20--%20Present-MJSEC%20%C2%B7%20Security%20Club-6DB33F?style=for-the-badge&logoColor=white"/>
+</p>
 
-| Period | Detail |
-|:---:|:---|
-| 2022.03 – Present | Myongji University, Computer Engineering |
-| 2026.03 – Present | MJSEC — Security Club |
+<h3 align="center">📜 Certification</h3>
 
-</td></tr>
-<tr><td align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/ITQ-한글-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Master-6DB33F?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
-### Certification
+<h3 align="center">💻 Project</h3>
 
-| Certificate |
-|:---|
-| ITQ 한글 |
-| Linux Master |
+<table align="center">
+<tr>
+<td width="420" valign="top">
 
-</td></tr>
-<tr><td align="center">
+**[MJU-OSS-MCP](https://github.com/Giheon-Jeon/MJU-OSS-MCP)**
 
-### Project
+자연어/조건 기반 항공권 검색 및 여행 플래닝 서비스
+(공개SW실무 팀 프로젝트)
 
-| Project | Description |
-|:---|:---|
-| [MJU-OSS-MCP](https://github.com/Giheon-Jeon/MJU-OSS-MCP) | 자연어/조건 기반 항공권 검색 및 여행 플래닝 서비스 (공개SW실무 팀 프로젝트, TypeScript/React) |
-| [MSG-CTF](https://github.com/MJSEC-MJU/MSG_CTF_WEB) | MJSEC 주최 CTF 대회 웹 플랫폼 (진행 중, JavaScript) |
+`TypeScript` `React`
 
-</td></tr>
+</td>
+<td width="420" valign="top">
+
+**[MSG-CTF](https://github.com/MJSEC-MJU/MSG_CTF_WEB)**
+
+MJSEC 주최 CTF 대회 웹 플랫폼
+(진행 중)
+
+`JavaScript`
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -52,5 +61,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/contribution-graph.svg" alt="Contribution Graph" width="90%"/>
+  <img src="assets/activity-line-graph.svg" alt="Weekly Commit Activity" width="90%"/>
 </p>
