@@ -15,11 +15,15 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-tau-one.vercel.app/?user=Giheon-Jeon&hide_border=true&background=ffffff&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak Stats" width="70%"/>
+  <img src="assets/streak-stats.svg" alt="GitHub Streak Stats" width="70%"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giheon-Jeon&hide_border=true&bg_color=ffffff&color=333333&line=6DB33F&point=6DB33F&area=true&area_color=6DB33F" alt="Contribution Graph" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
+    <img alt="Contribution snake animation" src="assets/snake.svg" width="90%"/>
+  </picture>
 </p>

@@ -1,0 +1,72 @@
+name: Update profile assets
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # daily at 03:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Giheon-Jeon
+          outputs: |
+            assets/snake.svg
+            assets/snake-dark.svg?palette=github-dark
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snake-output
+          path: assets/
+
+  streak-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch streak stats SVG
+        run: |
+          curl -sL --retry 3 --fail \
+            "https://github-readme-streak-stats-tau-one.vercel.app/?user=Giheon-Jeon&hide_border=true&background=ffffff&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" \
+            -o assets/streak-stats.new.svg
+          if head -c 100 assets/streak-stats.new.svg | grep -q "<svg"; then
+            mv assets/streak-stats.new.svg assets/streak-stats.svg
+          else
+            echo "Fetched file is not a valid SVG, keeping previous version."
+            rm -f assets/streak-stats.new.svg
+          fi
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: streak-output
+          path: assets/streak-stats.svg
+
+  commit:
+    needs: [snake, streak-stats]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: snake-output
+          path: assets/
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: streak-output
+          path: assets/
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "chore: update profile assets"
+          git push
