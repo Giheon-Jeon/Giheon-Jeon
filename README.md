@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,aws,docker,kubernetes,java,python,c&theme=light" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=github,git,aws,docker,kubernetes,java,python,c,js,ts,react,nextjs,fastapi,nginx,githubactions&theme=light" alt="Tech Stack"/>
 </p>
 
 <br/>
@@ -30,17 +30,20 @@
 
 <table align="center">
 <tr>
-<td width="420" valign="top">
+<td width="840" valign="top">
 
 **[MJU-OSS-MCP](https://github.com/Giheon-Jeon/MJU-OSS-MCP)**
 
 자연어/조건 기반 항공권 검색 및 여행 플래닝 서비스
 (공개SW실무 팀 프로젝트)
 
-`TypeScript` `React`
+**Frontend** `TypeScript` `React` `Next.js` `Tailwind CSS`<br>
+**Backend** `Python` `FastAPI`
 
 </td>
-<td width="420" valign="top">
+</tr>
+<tr>
+<td width="840" valign="top">
 
 **[MSG-CTF](https://github.com/MSG-CTF)**
 
@@ -49,12 +52,15 @@ MJSEC 주최 CTF 대회 웹 플랫폼
 프론트 CI · Nginx 프록시 · Semgrep 검사 연결 담당
 ([대회 기록 · 기여자](https://github.com/MSG-CTF/msg-ctf.github.io#contributors))
 
-`JavaScript`
+**Frontend** `JavaScript` `React` `Vite` `Tailwind CSS`<br>
+**Backend** `Python` `Django REST` `PostgreSQL` `Redis`<br>
+**Infra** `Go` `Kotlin` `Docker` `K3s` `Nginx`<br>
+**DevSecOps** `GitHub Actions` `Semgrep` `Trivy`
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="840" valign="top">
 
 **[틈(Teum)](https://github.com/mjufinder)**
 
@@ -63,7 +69,8 @@ MJSEC 주최 CTF 대회 웹 플랫폼
 
 시간표 입·출력(CSV · 비트 변환기)과 성능 검증 담당
 
-`Next.js` `FastAPI`
+**Frontend** `Next.js` `React`<br>
+**Backend** `Python` `FastAPI` `Supabase`
 
 </td>
 </tr>
