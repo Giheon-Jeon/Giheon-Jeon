@@ -1,9 +1,8 @@
 <h1 align="center">전기헌</h1>
 
 <p align="center">
-  <a href="mailto:jgh030706@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
-  <a href="https://instagram.com/gyeon.rus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:jgh030814@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.instagram.com/im._.gyeon"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <p align="center">
@@ -46,9 +45,25 @@
 **[MSG-CTF](https://github.com/MSG-CTF)**
 
 MJSEC 주최 CTF 대회 웹 플랫폼
-(진행 중)
+
+프론트 CI · Nginx 프록시 · Semgrep 검사 연결 담당
+([대회 기록 · 기여자](https://github.com/MSG-CTF/msg-ctf.github.io#contributors))
 
 `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[틈(Teum)](https://github.com/mjufinder)**
+
+에브리타임 시간표로 팀원 전원의 공강을 계산해 회의 시간을 추천하는 일정 조율 웹 서비스
+(팀프로젝트1 · 진행 중)
+
+시간표 입·출력(CSV · 비트 변환기)과 성능 검증 담당
+
+`Next.js` `FastAPI`
 
 </td>
 </tr>
